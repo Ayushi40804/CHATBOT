@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hello Master!"
+    },
+    {
+      "question": "How are you doing?",
+      "answer": "I am doing fine thank you for asking. How about you?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello Master!!!"
+    },
+    {
+      "question": "",
+      "answer": "Invisible Man"
+    },
+    {
+      "question": "no",
+      "answer": "NO"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "I am Megatron the destroyer"
+    },
+    {
+      "question": "What is your purpose?",
+      "answer": "to go to the party with james bond and accidentally poison him instead of the person"
+    },
+    {
+      "question": "nice",
+      "answer": "YESSS!!!! THANK YOU MASTER!!!!!!"
+    },
+    {
+      "question": "good job",
+      "answer": "YESSS MAMA!!!"
+    },
+    {
+      "question": "hi there",
+      "answer": "Hello Master"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello Master!!!"
+    }
+  ]
+}
